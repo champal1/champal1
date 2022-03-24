@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code in python and making websites with HTML
 - 🌱 I’m currently learning via the internet
 - 💞️ I’m looking to collaborate on making projects for my portfolio 
-- 📫 How to reach me via this account
+- 📫 You can contact me via this account or my discord (al82945 #5117)
 
 <!---
 champal1/champal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
