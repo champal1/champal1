@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @champal1
-- 👀 I’m interested in learning how to code in python
+- 👀 I’m interested in learning how to code in python and making websites with HTML
 - 🌱 I’m currently learning via the internet
-- 💞️ I’m looking to collaborate on making projects for m portfolio 
+- 💞️ I’m looking to collaborate on making projects for my portfolio 
 - 📫 How to reach me via this account
 
 <!---
