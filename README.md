@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @champal1
-- 👀 I’m interested in learning how to code in python and making websites with HTML
-- 🌱 I’m currently learning via the internet
-- 💞️ I’m looking to collaborate on making projects for my portfolio 
-- 📫 How to reach me via this account
+- My name is Alejandro Vargas and I am a Computer Science major at Foothill College with transfer in 2026
+- My programming languages are Python, Java, JavaScript, HTML, and CSS
+- Currently looking for internships 
+- I'm uploading my all my projects to show my coding abilities
+- You can reach me with this account
+- Thank you for reading
 
 <!---
 champal1/champal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
